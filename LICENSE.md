@@ -1,10 +1,17 @@
 Apache License, with additional restriction
 ==============
 
-_Version 2.0, January 2004_  
+Modified _Version 2.0, January 2004_  
 _&lt;<http://www.apache.org/licenses/>&gt;_
 
 ### Terms and Conditions for use, reproduction, and distribution
+
+#### 0. Additional Restriction:
+
+This software may not be relicensed under any copyleft license, 
+including but not limited to the GNU General Public License (GPL), 
+Affero General Public License (AGPL), or similar licenses. 
+Any derivative works must retain this license.
 
 #### 1. Definitions
 
@@ -179,7 +186,7 @@ recommend that a file or class name and description of purpose be included on
 the same “printed page” as the copyright notice for easier identification within
 third-party archives.
 
-    Copyright 2024 Lukasz Gorgol
+    Copyright [2024] [Lukasz Gorgol]
     
     Licensed under the Apache License, Version 2.0 (the "License") 
     enforced with additional restriction;
@@ -194,9 +201,9 @@ third-party archives.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-Additional Restriction:
+    Additional Restriction:
 
-* This software may not be relicensed under any copyleft license, 
-including but not limited to the GNU General Public License (GPL), 
-Affero General Public License (AGPL), or similar licenses. 
-Any derivative works must retain this license.
+    * This software may not be relicensed under any copyleft license, 
+    including but not limited to the GNU General Public License (GPL), 
+    Affero General Public License (AGPL), or similar licenses. 
+    Any derivative works must retain this license.

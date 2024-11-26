@@ -18,10 +18,6 @@ _deps
 # External projects
 *-prefix/
 
-### CMake Build Extras
-build/*
-.cmake
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -42,3 +38,5 @@ build/*
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/cmake,visualstudiocode
+
+build/!.gitignore
